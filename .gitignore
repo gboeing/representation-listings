@@ -1,3 +1,4 @@
+images/*
 data/*
 !data/study_sites.csv
 !data/states_by_fips.json
